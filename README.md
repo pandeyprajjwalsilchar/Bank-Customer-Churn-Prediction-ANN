@@ -1,4 +1,5 @@
 Customer Churn Prediction using Artificial Neural Network (ANN)
+
 This project involves building and training an Artificial Neural Network (ANN) to predict customer churn using structured customer data. The model identifies customers who are likely to stop using a service, enabling businesses to take proactive retention measures.
 
 Project Features
